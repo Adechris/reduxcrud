@@ -1,4 +1,4 @@
-// src/redux/reducers.js
+ 
 import { ADD_ITEM, UPDATE_ITEM, DELETE_ITEM } from './actions';
 
 const initialState = {
